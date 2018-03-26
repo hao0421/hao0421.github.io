@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2018-03-26T09:13:59.269Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2018-03-26T09:13:19.617Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/03/26/markdown%E7%AC%94%E8%AE%B0/</loc>
+    
+    <lastmod>2018-03-26T09:07:49.340Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2018/03/26/wall/</loc>
     
     <lastmod>2018-03-25T19:57:44.839Z</lastmod>
