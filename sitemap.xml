@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/boostnote.json</loc>
+    
+    <lastmod>2018-05-02T19:24:34.622Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/05/03/hello-world/</loc>
+    
+    <lastmod>2018-05-02T18:58:51.455Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/05/03/markdown%E7%AC%94%E8%AE%B0/</loc>
+    
+    <lastmod>2018-03-26T12:33:45.937Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/Wish/index.html</loc>
     
     <lastmod>2018-03-26T10:21:27.239Z</lastmod>
@@ -19,13 +40,6 @@
     <loc>http://yoursite.com/categories/index.html</loc>
     
     <lastmod>2018-03-26T09:13:19.617Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/03/26/markdown%E7%AC%94%E8%AE%B0/</loc>
-    
-    <lastmod>2018-03-26T09:07:49.340Z</lastmod>
     
   </url>
   
