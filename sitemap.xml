@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2018-06-24T05:32:19.615Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2018/06/24/2018-6-24-noone/</loc>
     
     <lastmod>2018-06-24T04:55:41.426Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://yoursite.com/2018/06/24/markdown%E8%AF%AD%E6%B3%95-0/</loc>
     
     <lastmod>2018-06-24T04:46:53.736Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/about/index.html</loc>
-    
-    <lastmod>2018-05-13T00:14:44.804Z</lastmod>
     
   </url>
   
