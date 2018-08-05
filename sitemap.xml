@@ -4,7 +4,21 @@
   <url>
     <loc>http://yoursite.com/about/index.html</loc>
     
-    <lastmod>2018-08-05T04:38:40.159Z</lastmod>
+    <lastmod>2018-08-05T07:18:40.539Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/06/24/2018-6-24-noone/</loc>
+    
+    <lastmod>2018-08-05T07:17:40.408Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/06/24/markdown%E8%AF%AD%E6%B3%95-0/</loc>
+    
+    <lastmod>2018-08-05T07:17:25.607Z</lastmod>
     
   </url>
   
@@ -16,23 +30,9 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2018/06/24/2018-6-24-noone/</loc>
-    
-    <lastmod>2018-06-24T04:55:41.426Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2018/06/24/test/</loc>
     
     <lastmod>2018-06-24T04:55:07.315Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/06/24/markdown%E8%AF%AD%E6%B3%95-0/</loc>
-    
-    <lastmod>2018-06-24T04:46:53.736Z</lastmod>
     
   </url>
   
